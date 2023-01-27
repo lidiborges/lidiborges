@@ -1,4 +1,4 @@
-## <h1 align="left">Oiii! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou a Lidiane 🚀</h1>
+ <h1 align="left">Oiii! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou a Lidiane 🚀</h1>
 <br><br>
 
 
@@ -7,7 +7,7 @@
 <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiborges&layout=compact&theme=radical" alt="lidiborges's most languages"/>
 </p>
 
-## 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lidi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Lidi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
